@@ -23,4 +23,4 @@ Download the module in your project. Add the Connection detail pages to your app
 
 # Notes
 
-As stated above, this module is an updated version 
+As stated above, this module is an updated version of old AppStore content, made ready for Mendix 7 with some improvements. That doesn't mean everything has been refactored (yet). So if you run in to any trouble, errors or if you want extra features, please raise an issue on [Github](https://github.com/McPoowl/sFTPs/). You could also create a pull request ofcourse :-)
